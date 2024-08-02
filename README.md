@@ -23,4 +23,5 @@
 </div>
 
 ###
+<h2 align="left">Implementacion del juego en la computadora</h2>
 ![Game of life](https://github.com/user-attachments/assets/38abb447-ba46-483b-ba41-e04247abc3dc)
