@@ -1,0 +1,1 @@
+D:\Documentos\Sexto\ semestre\Software\ 2\Graficas-Lab2\lab2\target\debug\lab2.exe: D:\Documentos\Sexto\ semestre\Software\ 2\Graficas-Lab2\lab2\src\framebuffer.rs D:\Documentos\Sexto\ semestre\Software\ 2\Graficas-Lab2\lab2\src\main.rs
